@@ -174,7 +174,7 @@ ul.address {
     color: #C7C7C7;
     margin-top: 0.8em;
     letter-spacing: 3px;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 ul.address {
     margin-top: 2em;
